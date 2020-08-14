@@ -1,1 +1,1 @@
-# Smallcase
+# Small Case
