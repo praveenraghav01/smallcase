@@ -28,6 +28,6 @@ spec:
       containers:
         - name: smallcase
           image: 591616226324.dkr.ecr.us-east-1.amazonaws.com/test-eks:latest
-          imagePullPolicy: Never
+          imagePullPolicy: Always
           ports:
             - containerPort: 5000
